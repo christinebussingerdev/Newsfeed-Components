@@ -33,3 +33,4 @@ let articles = document.querySelectorAll('.article');
 articles.forEach((article) => {  
   article = new Article(article);
 })
+
